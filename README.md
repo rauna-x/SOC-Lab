@@ -65,8 +65,3 @@ Detection: Captured multiple failed authentication attempts, visualized through 
 Real-time Alerting: Successfully mapped system events to the MITRE ATT&CK framework.
 Log Granularity: Sysmon integration provided visibility into Parent PIDs and Network Sockets that were previously invisible.
 Infrastructure Management: Gained hands-on experience in SIEM administration, XML-based log management, and defensive security posture.
-
-📸 Proof
-
-
-
